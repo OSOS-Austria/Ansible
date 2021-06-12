@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.tar.bz2
+*.tar.bzip2
+*.sql
+*.pem
+
+.project
+.pydevproject
+
+
+*.odt#
