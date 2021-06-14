@@ -3,11 +3,12 @@ DEFINITION zur Funktionsweise eines einfachen Linux-Clients
 shared account ohne LDAP-Anbindung
 <<<<<<< HEAD
 
-Ubuntu 20.04 LTS
-=====
+## Ubuntu 20.04 LTS
 
 Distro version: Ubuntu 20.04.2.0 LTS
 
+Spracheinstellung: Englisch 
+Keyboard Layout: German/German 
 
 
 regelmäßige Software-Updates
