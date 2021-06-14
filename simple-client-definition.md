@@ -2,7 +2,7 @@
 
 shared account ohne LDAP-Anbindung
 
-Expected details, prerequirements for standardization: 
+Expected details, prerequirements for standardization playbooks: 
 1. Distro version: Ubuntu 20.04.2.0 LTS
 2. Spracheinstellung: Englisch 
 3. Keyboard Layout: German/German 
@@ -12,8 +12,10 @@ Expected details, prerequirements for standardization:
 7. Hostname? 
 8. Ansible user/password?
 9. SSH Keys falls im Netzwerk vorhanden
+10. Disable livepatch 
+11. Dis/Enable Location sharing
 
-...wobei Sprache, Timezone, Keyboard Layout, Hostname auch von Ansible gesetzt werden können. 
+...wobei einiges auch von Ansible gesetzt werden können. 
 
 regelmäßige Software-Updates
 zusätzliche Software installieren
