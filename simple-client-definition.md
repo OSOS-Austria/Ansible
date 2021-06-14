@@ -4,7 +4,12 @@ shared account ohne LDAP-Anbindung
 <<<<<<< HEAD
 
 Ubuntu 20.04 LTS
-=======
+=====
+
+Distro version: Ubuntu 20.04.2.0 LTS
+
+
+
 regelmäßige Software-Updates
 zusätzliche Software installieren
 Admin Zugang
