@@ -1,7 +1,9 @@
 # Ansible Use Cases (14. Juni 2021)
+
 ## Clientmanagement (Linux + Windows): vordergründig
 * Linux: Ubuntu (aktuelle LTS)
 * Windows: 10
+
 ## Servermanagement
 *	Linux: Ubuntu, RHEL
 
@@ -21,6 +23,7 @@ Ansibel ist agent-los (man muss jedes Mal hin-PUSHEN)
 *	Registry-Edits
 *	User einrichten
 https://docs.ansible.com/ansible/latest/collections/ansible/windows/index.html
+
 ## Linux-Clients:
 *	Updates
 *	Software installieren
@@ -33,4 +36,5 @@ https://docs.ansible.com/ansible/latest/collections/ansible/windows/index.html
 ### Schritt 1: Darlegen was der Linux-Client können soll
 Nimm auch Win dazu, das mache ich parallel...
 einfacher Client (lokaler gemeinsamer User) -> komplexerer Client (LDAP-Anbindung, klassische Client-Server Umgebung)
+
 ### Schritt 2: Automatisierung
