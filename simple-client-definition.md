@@ -18,10 +18,15 @@ Expected details, prerequirements for standardization playbooks:
 ...wobei einiges auch von Ansible gesetzt werden können. 
 
 regelmäßige Software-Updates
+
 zusätzliche Software installieren
+
 auf Standard Installation zurück setzen
+
 Admin Account einrichten
+
 User Account anlegen
+
 sudo for shared account aktivieren
 
 
