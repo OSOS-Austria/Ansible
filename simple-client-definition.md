@@ -29,6 +29,7 @@ TODO:
 1. Woher kommen die Software updates? Haben wir eine Ubuntu Repo? (foreman?) 
 
 Rene:
+
 @4: default installation
 
 @7: kann eine eindeutige ID bestimmt werden?
