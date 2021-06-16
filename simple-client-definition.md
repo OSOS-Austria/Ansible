@@ -35,3 +35,26 @@ Rene:
 @7: kann eine eindeutige ID bestimmt werden?
 
 @todo1: reicht es nicht, die Ubuntu eigenen Repos anzustoßen? 
+
+Reini:
+
+@2: Spracheinstellungen eher Deutsch
+
+@4: Ubuntu - Desktop ist sicher eine gute Ausgangsbasis
+
+@5: hier sollten unsere "Playbooks" zum Einsatz kommen. Aber je gemeinsamer um so besser.
+    Spezialprogramme wie IntelliJava, AndroidStudio funktionieren auch gut von Netzwerklaufwerken
+    und lassen sich so auch gut aktuell halten. (Erstz für snapd)
+    
+@7: für Anbindung an Kerberos = AD = SAMBA4 leider eindeutig notwendig 
+    hostname wird bei preseed Installation normalerweise nach dhcp-Eintrag gesetzt
+    bei UEFI Installation mittels Ubuntu-Serverinstaller leider nicht mehr :-( d.h. wieder ein bißchen frickeln
+    
+@9: stört nicht, schadet nicht :-)
+
+@wobei:
+* regelmäßige Software-Updates
+bin bisher mit den Sicherheitsupdates bis auf eine Ausnahme gut gefahren.
+d.h. Firefox immer letzte Version
+Argument dafür: "wir Linuxer tun was für die Sicherheit ;-) 
+
