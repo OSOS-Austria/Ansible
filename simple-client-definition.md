@@ -58,3 +58,18 @@ bin bisher mit den Sicherheitsupdates bis auf eine Ausnahme gut gefahren.
 d.h. Firefox immer letzte Version
 Argument dafür: "wir Linuxer tun was für die Sicherheit ;-) 
 
+ZIEL:
+Wir wollen die Leute motivieren Linux am Desktop zu verwenden. 
+
+Daher macht eine gängige Distribution (im Augenblick Ubuntu) als Ausgangsbasis Sinn.
+
+Der OS² - Desktop ergänzt den Standarddesktop um:
+1. Sinnvolle Programme für den Bildungsbereich
+2. einen selbstheilenden User, der aber bei Bedarf gepflegt werden kann.
+   z.B.: Sinnvolle Bookmarks wie z.B.: Zugang Webuntis und andere häufig im Unterricht benötigte URLs
+   
+Diese Änderungen des OS² - Desktops können von jedem  Benutzer auf seinem Rechner mittels Ansible/Bash - Skript selbst installiert werden.
+installOSOSSoftwareSelection.sh
+installOSOSSelfHealingUser.sh
+
+
