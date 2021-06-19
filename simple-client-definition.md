@@ -72,4 +72,20 @@ Diese Änderungen des OS² - Desktops können von jedem  Benutzer auf seinem Rec
 installOSOSSoftwareSelection.sh
 installOSOSSelfHealingUser.sh
 
+Claudio:
+@2: Spracheinstellungen wäre ich auch eher bei Deutsch
+@4: Lässt sich ein standard Ubuntu Desktop per netinstall installieren?
+    Ich dachte, dass netinstall nur für Ubuntu-Server zur Verfügung steht und man dann hald alles nachinstallieren muss.
+    Nach dieser Installation sollte idealerweise der SSH-Schlüssel vom Ansible schon drauf sein.
+@7: Die Vergabe der Hostnames erfolgt wohl sehr standortspezifisch (Raumnummer, Stock, usw.)
+    Könnte man das mit einem Inventar-File (Hostname, MAC) umsetzen?
 
+Zusätzliche Programme können ja einfach über Rollen modular dazu genommen werden.
+
+Wir haben in unseren Playbooks noch ein paar Anpassungen:
+- Welche Apps sind im launcher
+- Zusätzliches Menü oben rechts
+- default apps
+- autologin in einen Guest-User (In den Klassen keine Anbindung an den LDAP über sssd)
+Macht ihr hier auch noch Anpassungen, oder soll das dann einfach Standortspezifisch bleiben?
+Hier eine Übersicht über unser Client-PC Ansible Setting: https://pro.files.cnow.at/index.php/s/iLrW5QQSpZ6paJH
