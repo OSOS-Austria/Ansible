@@ -2,6 +2,11 @@
 
 Musterlösung zu Ansible für Schulen
 
+## Ansible Galaxy
+
+Use the force
+![Galaxy](http://i.stack.imgur.com/ukC2U.jpg)
+
 ## Online Stuff
 
 [Ansible Tutorial - SymfonyCast](https://symfonycasts.com/screencast/ansible)  
