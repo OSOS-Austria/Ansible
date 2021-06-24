@@ -1,6 +1,0 @@
----
-# tasks file for Roles/chocolaty
-- name: Is Chocolaty installed?
-  win_chocolatey:
-    name: chocolatey
-    state: present
