@@ -1,3 +1,0 @@
-# Ubuntu Client LTS
-
-Things to do ...
